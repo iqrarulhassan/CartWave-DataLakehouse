@@ -1,17 +1,17 @@
 [
   {
     "relative_url": "iqrarulhassan/CartWave-DataLakehouse/refs/heads/main/Orders-data/Orders_Data.csv",
-    "sink_folder": "Files/Bronze/Orders",
+    "sink_folder": "Bronze/Orders",
     "sink_file": "Orders_Data.csv"
   },
   {
     "relative_url": "iqrarulhassan/CartWave-DataLakehouse/refs/heads/main/Orders-data/customers.csv",
-    "sink_folder": "Files/Bronze/Customers",
+    "sink_folder": "Bronze/Customers",
     "sink_file": "customers.csv"
   },
   {
     "relative_url": "iqrarulhassan/CartWave-DataLakehouse/refs/heads/main/Orders-data/products.csv",
-    "sink_folder": "Files/Bronze/Products",
+    "sink_folder": "Bronze/Products",
     "sink_file": "products.csv"
   }
 ]
