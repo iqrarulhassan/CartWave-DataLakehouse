@@ -1,17 +1,17 @@
 [
   {
     "relative_url": "iqrarulhassan/CartWave-DataLakehouse/refs/heads/main/web-rating-data/reviews.json",
-    "sink_folder": "Bronze/WebRatings",
+    "sink_folder": "WebRatings",
     "sink_file": "reviews.json"
   },
   {
     "relative_url": "iqrarulhassan/CartWave-DataLakehouse/refs/heads/main/web-rating-data/social_media.json",
-    "sink_folder": "Bronze/SocialMedia",
+    "sink_folder": "SocialMedia",
     "sink_file": "social_media.json"
   },
   {
     "relative_url": "iqrarulhassan/CartWave-DataLakehouse/refs/heads/main/web-rating-data/web_logs.json",
-    "sink_folder": "Bronze/WebLogs",
+    "sink_folder": "WebLogs",
     "sink_file": "web_logs.json"
   }
 ]
